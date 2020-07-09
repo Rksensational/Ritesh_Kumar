@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 I'm an Undergraduate Mechanical Engineering Student & Full Stack Web Dev and Founder of Coding Street. I am currently working at CII as an Intern on Data Analyst. I love to learn new skills and Looking for a great opportunity in my life and want to work something new.
 
 Some of my key skills include: Java, Web-Dev, Data Science , Bootstrap, JavaScript, MATLAB, Python, C, Solidworks, Ansys and Machine Learning.
