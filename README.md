@@ -1,9 +1,9 @@
-# Hi there 👋
-I'm an Undergraduate Mechanical Engineering Student & Full Stack Web Dev and Founder of Coding Street. I am currently working at CII as an Intern on Data Analyst. I love to learn new skills and Looking for a great opportunity in my life and want to work something new.
+### Hi there 👋
 
-Some of my key skills include: Java, Web-Dev, Data Science , Bootstrap, JavaScript, MATLAB, Python, C, Solidworks, Ansys and Machine Learning.
+I'm a Full Stack Web and Mobile App Developer. I am currently working at Bristlecone as an Intern on Data Migration using REST API. I really enjoy making clean and interactive UI which is easy to use. I have experience working with a range of different languages and frameworks and I am always looking for opportunities to work on something new.
 
-- 💬 Ask me about anything and everything!
-- 📫 How to reach me: Rksensational01@gmail.com
-- 🎉 My Professional Portfolio: Rksensational.ml
-- ⚡ Some facts: I love singing and writing.
+Some of my key skills include - Flutter, React Native, React, Bootstrap, JavaScript, PHP, Python and C++
+
+- 💬 Ask me about anything and everything! 
+- 📫 How to reach me: kashish.madan@outlook.com
+- ⚡ Fun fact: I love watching football and eating food! 
